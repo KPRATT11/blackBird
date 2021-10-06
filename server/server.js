@@ -45,7 +45,7 @@ app.get("/", (req, res) => {
 			if (res) {
 				authUsersHelp.getMetaData(userId).then((res) => {
 					if (res.role === "patient") {
-						patientsModel.patientsCreate(req.oidc.user.sub, res.name);
+						patientsModel.patientCreate(req.oidc.user.sub, res.name);
 					}
 				});
 			}

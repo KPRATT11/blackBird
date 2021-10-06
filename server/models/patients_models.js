@@ -31,7 +31,7 @@ function patientsGetId(id) {
 			return res.rows;
 		})
 		.catch((err) => {
-			console.log("little problem");
+			console.log(err);
 		});
 }
 module.exports = {

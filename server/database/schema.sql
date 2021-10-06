@@ -16,7 +16,7 @@ create table patients (
   id text,
   full_name text
 );
-//added section id
+
 create table comment (
   id serial primary key,
   patient_id int,
