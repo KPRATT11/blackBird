@@ -45,12 +45,12 @@ section.sectionCreate(2, "Section 1 of consultation 2", "sum section content for
 comment.commentsCreate("1", 2, "comment for consultation 2 section 1", 1);
 section.sectionCreate(2, "Section 2 of consultation 2", "sum section content for yall");
 
-consultation.create("Lol nvm figured out why, you ugly as hell", 1);
+consultation.create("Wow you are so good at coding", 1);
 section.sectionCreate(2, "Section 1 of consultation 2", "sum section content for yall");
 comment.commentsCreate("1", 3, "comment for consultation 3 section 2", 2);
 section.sectionCreate(2, "Section 2 of consultation 2", "sum section content for yall");
 
-consultation.create("Id be depressed too if I looked like that", 1);
+consultation.create("You're super girlboss", 1);
 section.sectionCreate(3, "Section 1 of consultation 3", "sum section content for yall");
 comment.commentsCreate("1", 4, "comment for consultation 4 section 2", 2);
 section.sectionCreate(3, "Section 2 of consultation 3", "sum section content for yall");
@@ -70,7 +70,7 @@ consultation.create("Another therapy session", 3);
 section.sectionCreate(7, "Section 1 of consultation 7", "sum section content for yall");
 section.sectionCreate(7, "Section 2 of consultation 7", "sum section content for yall");
 
-consultation.create("Last therapy session, you too boring", 3);
+consultation.create("Last therapy session, you're cured", 3);
 section.sectionCreate(8, "Section 1 of consultation 8", "sum section content for yall");
 section.sectionCreate(8, "Section 2 of consultation 8", "sum section content for yall");
 
